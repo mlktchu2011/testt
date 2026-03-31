@@ -1,0 +1,1 @@
+{"name": "whatsapp-bot", "version": "1.0.0", "description": "A WhatsApp bot project", "main": "index.js", "scripts": {"start": "node index.js"}, "repository": {"type": "git", "url": "https://github.com/mlktchu2011/testt.git"}, "author": "mlktchu2011", "license": "MIT"}
